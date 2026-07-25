@@ -1,3 +1,2 @@
-# preview-of-my-keybinds-config
-*for https://github.com/TextCoffin/vxwm-keybinds-config.git*
-for custom branch
+# preview some thing into using
+in the about you can go to main repo for check more
